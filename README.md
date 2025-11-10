@@ -10,5 +10,5 @@ Next i developed a response plan for future cybersecurity incidents
 Overall,i reflected on all the information i gathered about the incident in the previous steps to consider which devices, systems, and processes need to be restored and recovered, then i highlight steps that needs to be taken to help the organization recover from the cybersecurity incident
 Result & Impact: The key findings of this project was that the attack was carried out by a malicious actor who targeted the organization network with an ICMP flood attack which led to an distributed denial of services (DDoS) attack, this attack affected the entire internal network
 Successfully outlined ways to improve the organization network security, developed detection methods to detected unusual activity on the network, then created response plan against future incident.
-Project artifact: 
+Project artifact: # Inicdent response analysis md (A file documenting the analysis of the security incident following the NIST framework),
 
