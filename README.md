@@ -14,5 +14,6 @@ The organization recently experienced a DDoS attack, which compromised the inter
  ### Result & Impact
  The key findings of this project was that the attack was carried out by a malicious actor who targeted the organization network with an ICMP flood attack which led to an distributed denial of services (DDoS) attack, this attack affected the entire internal network
 Successfully outlined ways to improve the organization network security, developed detection methods to detected unusual activity on the network, then created response plan against future incident.
-### Project artifact:View detailed technical analysisin the # Inicdent response analysis.md (A file documenting the analysis of the security incident following the NIST framework),
+### Project artifact:
+View detailed technical analysis in the # Inicdent response analysis.md (A file documenting the analysis of the security incident following the NIST framework) (
 
